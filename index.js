@@ -1,3 +1,3 @@
 var customerName = 'bob';
 
-uppercaseCustomerName() = customerName.toUpperCase();
+var upperCaseCustomerName() = customerName.toUpperCase();
