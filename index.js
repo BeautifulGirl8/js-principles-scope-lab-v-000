@@ -1,3 +1,3 @@
-var customerName = Sandra
+var customerName = bob
 
 uppercaseCustomerName() = customerName.upcase
